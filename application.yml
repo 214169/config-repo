@@ -1,3 +1,7 @@
 firstname: Harpal
 lastname: Singh
 address: Engamore Lane
+
+info:
+ gender: "M",
+ location" "US"
